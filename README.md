@@ -85,6 +85,7 @@ npm run dev
 
 ## 🛡️ Vision & Mission
 **Vision**: To create a world where no cry for help goes unheard and no opportunity to help is wasted.
+
 **Mission**: To leverage cutting-edge AI and human-centric design to facilitate local aid and foster global empathy.
 
 ---
