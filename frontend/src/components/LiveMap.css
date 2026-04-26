@@ -1,0 +1,58 @@
+.map-grid-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: 
+    radial-gradient(circle at 1px 1px, rgba(255,255,255,0.05) 1px, transparent 0);
+  background-size: 30px 30px;
+  pointer-events: none;
+}
+
+.pulse-pin-interactive {
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.pulse-pin-interactive:hover {
+  transform: scale(1.4);
+}
+
+.pulse-pin-interactive.active {
+  transform: scale(1.6);
+}
+
+.pin-marker {
+  width: 24px;
+  height: 24px;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(-45deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+  border: 2px solid rgba(255,255,255,0.2);
+}
+
+.pin-marker > * {
+  transform: rotate(45deg);
+}
+
+.pin-ripple {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  right: -8px;
+  bottom: -8px;
+  border-radius: 50%;
+  border: 2px solid;
+  animation: pin-ripple-anim 2s infinite;
+  opacity: 0;
+}
+
+@keyframes pin-ripple-anim {
+  0% { transform: scale(0.5); opacity: 0.8; }
+  100% { transform: scale(1.5); opacity: 0; }
+}
+
+.map-detail-card {
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+  backdrop-filter: blur(20px);
+}

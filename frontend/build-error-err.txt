@@ -1,0 +1,239 @@
+﻿[36mvite v8.0.8 [32mbuilding client environment for production...[36m[39m
+[2K
+transforming...Γ£ô 1734 modules transformed.
+rendering chunks...
+node.exe : [31mΓ£ù[39m 
+Build failed in 277ms
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: ([3  
+  1mΓ£ù[39m Build faile   
+ d in 277ms:String) [],    
+ RemoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+[31merror during build:
+[31mBuild failed with 3 
+errors:
+
+[31m[MISSING_EXPORT] 
+Error:[0m "UsersCore" is 
+not exported by "node_modul
+es/lucide-react/dist/esm/lu
+cide-react.js".
+   [38;5;246mΓò¡[0m[38;5
+;246mΓöÇ[0m[38;5;246m[[0
+m src/components/ServicesGr
+id.jsx:2:33 
+[38;5;246m][0m
+   [38;5;246mΓöé[0m
+ [38;5;246m2 Γöé[0m [38;
+5;249mi[0m[38;5;249mm[0m
+[38;5;249mp[0m[38;5;249m
+o[0m[38;5;249mr[0m[38;5
+;249mt[0m[38;5;249m [0m
+[38;5;249m{[0m[38;5;249m 
+[0m[38;5;249mP[0m[38;5;
+249ma[0m[38;5;249mc[0m[
+38;5;249mk[0m[38;5;249ma
+[0m[38;5;249mg[0m[38;5;2
+49me[0m[38;5;249mO[0m[3
+8;5;249mp[0m[38;5;249me[
+0m[38;5;249mn[0m[38;5;24
+9m,[0m[38;5;249m [0m[38
+;5;249mB[0m[38;5;249mo[0
+m[38;5;249mo[0m[38;5;249
+mk[0m[38;5;249mO[0m[38;
+5;249mp[0m[38;5;249me[0m
+[38;5;249mn[0m[38;5;249m
+,[0m[38;5;249m [0mUsersC
+ore[38;5;249m,[0m[38;5;2
+49m [0m[38;5;249mD[0m[3
+8;5;249mr[0m[38;5;249mo[
+0m[38;5;249mp[0m[38;5;24
+9ml[0m[38;5;249me[0m[38
+;5;249mt[0m[38;5;249m [0
+m[38;5;249m}[0m[38;5;249
+m [0m[38;5;249mf[0m[38;
+5;249mr[0m[38;5;249mo[0m
+[38;5;249mm[0m[38;5;249m
+ [0m[38;5;249m"[0m[38;5
+;249ml[0m[38;5;249mu[0m
+[38;5;249mc[0m[38;5;249mi
+[0m[38;5;249md[0m[38;5;
+249me[0m[38;5;249m-[0m[
+38;5;249mr[0m[38;5;249me
+[0m[38;5;249ma[0m[38;5;2
+49mc[0m[38;5;249mt[0m[3
+8;5;249m"[0m[38;5;249m;[
+0m
+ [38;5;240m  Γöé[0m      
+                           
+ΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇΓöÇ
+  
+ [38;5;240m  Γöé[0m      
+                           
+    Γò░ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ 
+Missing export
+[38;5;246mΓöÇΓöÇΓöÇΓò»[0m
+
+[31m[MISSING_EXPORT] 
+Error:[0m "Github" is not 
+exported by "node_modules/l
+ucide-react/dist/esm/lucide
+-react.js".
+   [38;5;246mΓò¡[0m[38;5
+;246mΓöÇ[0m[38;5;246m[[0
+m src/components/Footer.jsx
+:2:17 [38;5;246m][0m
+   [38;5;246mΓöé[0m
+ [38;5;246m2 Γöé[0m [38;
+5;249mi[0m[38;5;249mm[0m
+[38;5;249mp[0m[38;5;249m
+o[0m[38;5;249mr[0m[38;5
+;249mt[0m[38;5;249m [0m
+[38;5;249m{[0m[38;5;249m 
+[0m[38;5;249mH[0m[38;5;
+249me[0m[38;5;249ma[0m[
+38;5;249mr[0m[38;5;249mt
+[0m[38;5;249m,[0m[38;5;2
+49m [0mGithub[38;5;249m,
+[0m[38;5;249m [0m[38;5;2
+49mT[0m[38;5;249mw[0m[3
+8;5;249mi[0m[38;5;249mt[
+0m[38;5;249mt[0m[38;5;24
+9me[0m[38;5;249mr[0m[38
+;5;249m,[0m[38;5;249m [0
+m[38;5;249mM[0m[38;5;249
+ma[0m[38;5;249mi[0m[38;
+5;249ml[0m[38;5;249m [0m
+[38;5;249m}[0m[38;5;249m
+ [0m[38;5;249mf[0m[38;5
+;249mr[0m[38;5;249mo[0m
+[38;5;249mm[0m[38;5;249m 
+[0m[38;5;249m"[0m[38;5;
+249ml[0m[38;5;249mu[0m[
+38;5;249mc[0m[38;5;249mi
+[0m[38;5;249md[0m[38;5;2
+49me[0m[38;5;249m-[0m[3
+8;5;249mr[0m[38;5;249me[
+0m[38;5;249ma[0m[38;5;24
+9mc[0m[38;5;249mt[0m[38
+;5;249m"[0m[38;5;249m;[0
+m
+ [38;5;240m  Γöé[0m      
+           
+ΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇ  
+ [38;5;240m  Γöé[0m      
+              
+Γò░ΓöÇΓöÇΓöÇΓöÇ Missing 
+export
+[38;5;246mΓöÇΓöÇΓöÇΓò»[0m
+
+[31m[MISSING_EXPORT] 
+Error:[0m "Twitter" is 
+not exported by "node_modul
+es/lucide-react/dist/esm/lu
+cide-react.js".
+   [38;5;246mΓò¡[0m[38;5
+;246mΓöÇ[0m[38;5;246m[[0
+m src/components/Footer.jsx
+:2:25 [38;5;246m][0m
+   [38;5;246mΓöé[0m
+ [38;5;246m2 Γöé[0m [38;
+5;249mi[0m[38;5;249mm[0m
+[38;5;249mp[0m[38;5;249m
+o[0m[38;5;249mr[0m[38;5
+;249mt[0m[38;5;249m [0m
+[38;5;249m{[0m[38;5;249m 
+[0m[38;5;249mH[0m[38;5;
+249me[0m[38;5;249ma[0m[
+38;5;249mr[0m[38;5;249mt
+[0m[38;5;249m,[0m[38;5;2
+49m [0m[38;5;249mG[0m[3
+8;5;249mi[0m[38;5;249mt[
+0m[38;5;249mh[0m[38;5;24
+9mu[0m[38;5;249mb[0m[38
+;5;249m,[0m[38;5;249m [0
+mTwitter[38;5;249m,[0m[3
+8;5;249m [0m[38;5;249mM[
+0m[38;5;249ma[0m[38;5;24
+9mi[0m[38;5;249ml[0m[38
+;5;249m [0m[38;5;249m}[0
+m[38;5;249m [0m[38;5;249
+mf[0m[38;5;249mr[0m[38;
+5;249mo[0m[38;5;249mm[0m
+[38;5;249m [0m[38;5;249m
+"[0m[38;5;249ml[0m[38;5
+;249mu[0m[38;5;249mc[0m
+[38;5;249mi[0m[38;5;249md
+[0m[38;5;249me[0m[38;5;
+249m-[0m[38;5;249mr[0m[
+38;5;249me[0m[38;5;249ma
+[0m[38;5;249mc[0m[38;5;2
+49mt[0m[38;5;249m"[0m[3
+8;5;249m;[0m
+ [38;5;240m  Γöé[0m      
+                   
+ΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇ  
+ [38;5;240m  Γöé[0m      
+                      
+Γò░ΓöÇΓöÇΓöÇΓöÇΓöÇ Missing 
+export
+[38;5;246mΓöÇΓöÇΓöÇΓò»[0m
+[31m
+    at aggregateBindingErro
+rsIntoJsError (file:///C:/U
+sers/LENOVO/Desktop/GoogleS
+olu_2026Challenge/sahaaynet
+/node_modules/rolldown/dist
+/shared/error-w0u7biK-.mjs:
+48:18)
+    at unwrapBindingResult 
+(file:///C:/Users/LENOVO/De
+sktop/GoogleSolu_2026Challe
+nge/sahaaynet/node_modules/
+rolldown/dist/shared/error-
+w0u7biK-.mjs:18:128)
+    at #build (file:///C:/U
+sers/LENOVO/Desktop/GoogleS
+olu_2026Challenge/sahaaynet
+/node_modules/rolldown/dist
+/shared/rolldown-build-DtGk
+-m96.mjs:3313:34)
+    at async 
+buildEnvironment (file:///C
+:/Users/LENOVO/Desktop/Goog
+leSolu_2026Challenge/sahaay
+net/node_modules/vite/dist/
+node/chunks/node.js:32954:6
+4)
+    at async Object.build (
+file:///C:/Users/LENOVO/Des
+ktop/GoogleSolu_2026Challen
+ge/sahaaynet/node_modules/v
+ite/dist/node/chunks/node.j
+s:33376:19)
+    at async 
+Object.buildApp (file:///C:
+/Users/LENOVO/Desktop/Googl
+eSolu_2026Challenge/sahaayn
+et/node_modules/vite/dist/n
+ode/chunks/node.js:33373:15
+3)
+    at async 
+CAC.<anonymous> (file:///C:
+/Users/LENOVO/Desktop/Googl
+eSolu_2026Challenge/sahaayn
+et/node_modules/vite/dist/n
+ode/cli.js:778:3) {
+  errors: [Getter/Setter]
+}[39m
