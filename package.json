@@ -2,10 +2,7 @@
   "name": "sahaaynet-root",
   "version": "1.0.0",
   "scripts": {
-    "start": "concurrently \"npm run dev --prefix frontend\" \"npm start --prefix backend\" \"py ai/main.py\"",
-    "dev": "concurrently \"npm run dev --prefix frontend\" \"npm start --prefix backend\" \"py ai/main.py\""
-  },
-  "devDependencies": {
-    "concurrently": "^8.2.2"
+    "build": "npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm install -g serve && serve -s frontend/dist -l 8080"
   }
 }
